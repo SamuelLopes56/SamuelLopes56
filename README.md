@@ -14,7 +14,7 @@
 -->
 
 ## Entre em contato comigo: 
-[![linkedin](https://img.shields.io/badge/-SamuelLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-lopes-348b1115b/)
+[![Linkedin Badge](https://img.shields.io/badge/-SamuelLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-lopes-348b1115b/)](https://www.linkedin.com/in/samuel-lopes-348b1115b/)
 [![gmail Badge](https://img.shields.io/badge/-samuelhslopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelhslopes@gmail.com)](mailto:samuelhslopes@gmail.com)
 
   ## Tecnologias que uso no meu dia
