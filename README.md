@@ -3,8 +3,8 @@
  ### Olá 👋 
 
 - 🔭 Estou cursando análise e desenvolvimento de sistemas na Fadergs.
-- 🌱 Estou atualmente estudando ReactJS.
-- 💬 Sobre mim: Sou apaixonado por tecnologias, jogos e séries.
+- 🌱 Estou atualmente estudando Python.
+- 💬 Sobre mim: Sou apaixonado por jogos e séries.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
